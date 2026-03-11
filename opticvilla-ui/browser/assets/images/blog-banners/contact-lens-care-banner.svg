@@ -1,0 +1,43 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Contact Lens Care Banner</title>
+  <desc id="desc">Clean medical-inspired banner for contact lens care articles</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eff6ff" />
+      <stop offset="55%" stop-color="#f0fdfa" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#0f766e" />
+    </linearGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="22" />
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <ellipse cx="1320" cy="180" rx="190" ry="120" fill="#22d3ee" opacity="0.22" filter="url(#blur)" />
+  <ellipse cx="260" cy="760" rx="210" ry="140" fill="#60a5fa" opacity="0.16" filter="url(#blur)" />
+
+  <g transform="translate(980 170)">
+    <rect x="0" y="0" width="440" height="550" rx="26" fill="#ffffff" stroke="#bfdbfe" stroke-width="3" />
+    <circle cx="220" cy="180" r="112" fill="none" stroke="#93c5fd" stroke-width="14" />
+    <circle cx="220" cy="180" r="68" fill="none" stroke="url(#accent)" stroke-width="10" opacity="0.88" />
+    <rect x="90" y="348" width="260" height="20" rx="10" fill="#e2e8f0" />
+    <rect x="90" y="390" width="220" height="20" rx="10" fill="#e2e8f0" />
+    <rect x="90" y="432" width="280" height="20" rx="10" fill="#e2e8f0" />
+  </g>
+
+  <g transform="translate(120 180)">
+    <text x="0" y="0" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#0f172a" font-weight="700">Contact Lens Care Routine</text>
+    <text x="0" y="66" font-family="Verdana, Arial, sans-serif" font-size="30" fill="#334155">Hygiene Rules, Mistakes to Avoid, and Safe Wear Tips</text>
+    <rect x="0" y="104" width="630" height="10" rx="5" fill="url(#accent)" />
+
+    <g transform="translate(0 190)" font-family="Verdana, Arial, sans-serif" font-size="24" fill="#0f766e">
+      <text x="0" y="0">Clean hands before handling</text>
+      <text x="0" y="42">Fresh solution every cycle</text>
+      <text x="0" y="84">Replace lenses on schedule</text>
+    </g>
+  </g>
+</svg>
