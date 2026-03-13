@@ -3,6 +3,7 @@
     "/": {},
     "/blog": {},
     "/cart": {},
-    "/checkout": {}
+    "/checkout": {},
+    "/faq": {}
   }
 }
