@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
+Disallow: /admin/
+Disallow: /api/internal/
+Disallow: /checkout
+Disallow: /cart
 
+Sitemap: https://www.opticvilla.com/sitemap_index.xml
 Sitemap: https://www.opticvilla.com/sitemap.xml
