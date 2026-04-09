@@ -1,1 +1,0 @@
-var r="/assets/images/placeholders";function t(e){let n=(e??"").toLowerCase();return n.includes("contact")?`${r}/contact-lens-placeholder.png`:n.includes("sun")?`${r}/sunglasses-placeholder.png`:`${r}/eyeglasses-placeholder.png`}function s(e,n){return e&&e.trim().length>0?e:t(n)}export{t as a,s as b};
