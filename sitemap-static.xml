@@ -8,8 +8,14 @@
   </url>
   <url>
     <loc>https://www.opticvilla.com/blog</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opticvilla.com/blog/best-sunglasses-for-indian-weather-uv-protection-polarized-lens-guide</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
