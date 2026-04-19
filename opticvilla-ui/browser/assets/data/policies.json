@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "privacy-policy",
+    "title": "Privacy Policy",
+    "seoTitle": "Privacy Policy | OpticVilla Data Protection and Customer Privacy",
+    "seoDescription": "Read the OpticVilla Privacy Policy to understand how personal data, prescription information, payments, cookies, and support records are collected, processed, and protected.",
+    "keywords": ["privacy policy", "data protection", "customer privacy", "prescription data security", "ecommerce privacy"],
+    "effectiveDate": "2026-03-14",
+    "lastReviewed": "2026-03-14",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "OpticVilla is committed to protecting your personal information and maintaining transparent data handling practices. This Privacy Policy explains what data we collect, why we collect it, how we process it, and what controls you have over your information.",
+          "By accessing our website, placing an order, uploading a prescription, or contacting support, you acknowledge that your information may be processed as described in this policy. We process only the information needed to deliver services, improve customer experience, and comply with applicable legal obligations."
+        ]
+      },
+      {
+        "heading": "Information We Collect",
+        "paragraphs": [
+          "We may collect contact details such as name, email address, phone number, and shipping address when you create an account, place an order, or request support.",
+          "For prescription-enabled purchases, we may collect prescription metadata and uploaded files provided by you. We also collect order details, product selections, lens options, payment method status, and transaction references required to complete your purchase safely.",
+          "Technical information such as IP address, device type, browser details, and session-related analytics may be collected to ensure platform security, fraud prevention, and service reliability."
+        ]
+      },
+      {
+        "heading": "How We Use Your Information",
+        "paragraphs": [
+          "We use your data to process and deliver orders, verify payments, manage prescription workflows, send order confirmations, and provide after-sales support.",
+          "Information may also be used to monitor platform performance, diagnose technical issues, improve product presentation, and enhance checkout clarity including item-level pricing transparency.",
+          "Where legally permitted, we may send relevant service updates and customer communications. Marketing communication preferences can be managed through available opt-out options."
+        ]
+      },
+      {
+        "heading": "Data Sharing and Security",
+        "paragraphs": [
+          "We do not sell personal data. Information may be shared only with trusted service providers involved in payment processing, logistics, hosting, communication delivery, and technical operations under appropriate confidentiality and security obligations.",
+          "Reasonable administrative, technical, and operational safeguards are applied to protect customer data against unauthorized access, misuse, or unlawful disclosure. While no digital environment is absolutely risk-free, we continuously improve controls to reduce security exposure."
+        ]
+      },
+      {
+        "heading": "Data Retention and Customer Rights",
+        "paragraphs": [
+          "We retain information for as long as necessary to fulfill service, accounting, warranty, legal, and dispute-resolution requirements. Retention periods may vary by data type and legal context.",
+          "Subject to applicable law, you may request access, correction, or deletion of eligible personal data by contacting support. Requests are evaluated with account security, legal duties, and fraud-prevention obligations in mind."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "shipping-policy",
+    "title": "Shipping Policy",
+    "seoTitle": "Shipping Policy | OpticVilla Delivery Timelines, Processing, and Tracking",
+    "seoDescription": "Review OpticVilla shipping timelines, order processing windows, delivery expectations, tracking updates, and conditions that may affect shipping schedules.",
+    "keywords": ["shipping policy", "delivery timeline", "order tracking", "eyewear delivery", "shipping charges"],
+    "effectiveDate": "2026-03-14",
+    "lastReviewed": "2026-03-14",
+    "sections": [
+      {
+        "heading": "Order Processing",
+        "paragraphs": [
+          "Orders are typically processed after payment verification or order confirmation for approved payment modes. Prescription-enabled products may require additional validation before dispatch.",
+          "Processing time may vary depending on product category, lens selection, prescription status, and operational load. Estimated dispatch windows shown during checkout are indicative and may be updated when required."
+        ]
+      },
+      {
+        "heading": "Delivery Timelines",
+        "paragraphs": [
+          "Delivery timelines depend on shipping destination, courier coverage, and whether the product includes custom lens processing. Standard products are generally delivered faster than customized prescription orders.",
+          "Business days exclude public holidays and non-operational days. Any delays due to weather events, transport disruptions, or regulatory restrictions are outside direct platform control."
+        ]
+      },
+      {
+        "heading": "Shipping Charges and Coverage",
+        "paragraphs": [
+          "Shipping charges, if applicable, are displayed at checkout before order placement. Promotional free-shipping thresholds may apply for selected orders and are subject to campaign terms.",
+          "We strive to serve broad pin-code coverage. In cases where delivery is not available to a specific location, the customer may be informed and assisted with available alternatives."
+        ]
+      },
+      {
+        "heading": "Tracking and Delivery Confirmation",
+        "paragraphs": [
+          "Once an order is shipped, tracking details are shared through available communication channels. Customers are advised to monitor tracking status for expected delivery windows.",
+          "At delivery, standard courier verification may be required. Any visible package damage should be documented at the time of receipt and reported promptly for faster resolution."
+        ]
+      },
+      {
+        "heading": "Address Accuracy and Failed Deliveries",
+        "paragraphs": [
+          "Customers are responsible for providing complete and accurate shipping information. Incorrect or incomplete addresses can lead to delayed or failed delivery attempts.",
+          "If a shipment is returned due to delivery failure, additional processing or re-shipping conditions may apply based on order status and operational feasibility."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "terms-condition",
+    "title": "Terms and Conditions",
+    "seoTitle": "Terms and Conditions | OpticVilla Website Use, Orders, Payments, and Liability",
+    "seoDescription": "Read OpticVilla Terms and Conditions covering website usage, product listings, pricing transparency, order acceptance, payments, and customer responsibilities.",
+    "keywords": ["terms and conditions", "ecommerce terms", "order terms", "payment terms", "website use policy"],
+    "effectiveDate": "2026-03-14",
+    "lastReviewed": "2026-03-14",
+    "sections": [
+      {
+        "heading": "Acceptance of Terms",
+        "paragraphs": [
+          "By accessing and using this website, you agree to be bound by these Terms and Conditions and all applicable policies referenced on this platform.",
+          "If you do not agree with any part of these terms, you should discontinue use of the website and associated purchase workflows."
+        ]
+      },
+      {
+        "heading": "Product Information and Pricing",
+        "paragraphs": [
+          "We aim to present accurate product details, pricing, and availability. However, technical or operational errors may occasionally occur. In such cases, corrective action may be taken, including communication, order review, or cancellation where necessary.",
+          "For prescription-enabled products, final payable amounts are validated by backend pricing logic to ensure calculation consistency and customer protection. Base product price and lens add-on charges may be displayed separately for transparency."
+        ]
+      },
+      {
+        "heading": "Orders and Payments",
+        "paragraphs": [
+          "Placing an order does not guarantee final acceptance until validation checks are completed. Payment authorization, stock status, prescription completeness, and compliance checks may affect fulfillment outcomes.",
+          "Customers are responsible for providing truthful, complete, and current information at checkout. Any misrepresentation that affects order processing may result in cancellation or account-level safeguards."
+        ]
+      },
+      {
+        "heading": "User Conduct and Platform Use",
+        "paragraphs": [
+          "You agree not to misuse website functionality, attempt unauthorized access, interfere with system operations, or submit malicious content.",
+          "Automated abuse, manipulation attempts, and fraudulent activity are strictly prohibited and may lead to transaction blocking, account restrictions, or legal escalation where applicable."
+        ]
+      },
+      {
+        "heading": "Liability and Policy Updates",
+        "paragraphs": [
+          "To the extent permitted by law, OpticVilla is not liable for indirect, incidental, or consequential losses arising from service interruptions, third-party logistics issues, or external events beyond reasonable control.",
+          "These terms may be updated periodically. Continued use of the website after updates indicates acceptance of revised terms. Customers are encouraged to review policy pages regularly."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "return-exchange",
+    "title": "Return and Exchange Policy",
+    "seoTitle": "Return and Exchange Policy | OpticVilla Eyewear Return Eligibility and Support",
+    "seoDescription": "Understand OpticVilla return and exchange eligibility, request timelines, product condition requirements, and support process for eyewear orders.",
+    "keywords": ["return policy", "exchange policy", "eyewear returns", "refund support", "order issue resolution"],
+    "effectiveDate": "2026-03-14",
+    "lastReviewed": "2026-03-14",
+    "sections": [
+      {
+        "heading": "Eligibility and Request Window",
+        "paragraphs": [
+          "Return or exchange eligibility depends on product category, order status, and item condition. Requests should be initiated within the applicable support window communicated for your order type.",
+          "Customized or prescription-configured items may follow specific return conditions due to personalization. Eligibility is evaluated case-by-case in line with policy and quality review standards."
+        ]
+      },
+      {
+        "heading": "Condition Requirements",
+        "paragraphs": [
+          "Items requested for return or exchange should be in acceptable condition with original accessories, packaging, and tags where applicable. Products showing signs of misuse, damage, or unauthorized modification may not qualify.",
+          "For quality-related concerns, clear evidence such as images, unboxing state details, and order references helps accelerate resolution."
+        ]
+      },
+      {
+        "heading": "Exchange and Replacement Process",
+        "paragraphs": [
+          "Once your request is reviewed and approved, support will guide you through the next steps including pickup, reverse shipment, and replacement timelines where applicable.",
+          "Replacement dispatch may depend on stock availability and product category. If a direct replacement is not possible, alternate resolution options may be discussed."
+        ]
+      },
+      {
+        "heading": "Refund Handling",
+        "paragraphs": [
+          "Where refunds are approved under policy, processing timelines depend on payment mode, banking channels, and platform verification checkpoints.",
+          "Refund status updates are provided through available communication channels. Any delays caused by third-party banking workflows are outside immediate platform control, but support assistance is provided for tracking."
+        ]
+      },
+      {
+        "heading": "How to Raise a Return or Exchange Request",
+        "paragraphs": [
+          "Contact support with your order ID, product details, and reason for request. Include relevant evidence for faster evaluation, especially for damage, fit concerns, or fulfillment mismatch.",
+          "For prescription-enabled orders, include prescription context if the issue relates to power configuration so the team can coordinate an accurate response."
+        ]
+      }
+    ]
+  }
+]

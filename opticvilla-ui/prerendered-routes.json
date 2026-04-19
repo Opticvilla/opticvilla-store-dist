@@ -1,0 +1,14 @@
+{
+  "routes": {
+    "/": {},
+    "/blog": {},
+    "/contact-lenses": {},
+    "/eyeglasses": {},
+    "/faq": {},
+    "/privacy-policy": {},
+    "/return-exchange": {},
+    "/shipping-policy": {},
+    "/sunglasses": {},
+    "/terms-condition": {}
+  }
+}
