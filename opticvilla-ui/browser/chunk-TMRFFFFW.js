@@ -1,1 +1,0 @@
-var t={production:!0,apiBaseUrl:"https://api-v2.opticvilla.com",siteUrl:"https://www.opticvilla.com",phonepe:{merchantId:"YOUR_LIVE_MERCHANT_ID",saltKey:"YOUR_LIVE_SALT_KEY",saltIndex:1,enabled:!0}};export{t as a};
