@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.opticvilla.com/</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.opticvilla.com/blog</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.opticvilla.com/blog/best-sunglasses-for-indian-weather-uv-protection-polarized-lens-guide</loc>
     <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opticvilla.com/blog/blue-cut-lenses-vs-anti-glare-glasses-which-is-best-for-screen-use</loc>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -37,8 +43,14 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.opticvilla.com/blog/what-are-optic-coins-how-to-earn-use-and-save-more</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.opticvilla.com/faq</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
