@@ -1,0 +1,26 @@
+# OpticVilla
+
+> OpticVilla is an Indian online eyewear store offering eyeglasses, sunglasses, contact lenses, prescription ordering support, and customer rewards.
+
+## Primary collections
+
+- [Eyeglasses](https://www.opticvilla.com/eyeglasses)
+- [Sunglasses](https://www.opticvilla.com/sunglasses)
+- [Contact lenses](https://www.opticvilla.com/contact-lenses)
+
+## Customer information
+
+- [Eye care and eyewear guides](https://www.opticvilla.com/blog)
+- [Frequently asked questions](https://www.opticvilla.com/faq)
+- [Shipping policy](https://www.opticvilla.com/shipping-policy)
+- [Return and exchange policy](https://www.opticvilla.com/return-exchange)
+- [Privacy policy](https://www.opticvilla.com/privacy-policy)
+- [Terms and conditions](https://www.opticvilla.com/terms-condition)
+
+## Contact
+
+- Customer support: support@opticvilla.com
+- Phone: +91 99888 88474
+- Location: Ludhiana, Punjab, India
+
+Product price, availability, prescription compatibility, delivery, and return eligibility should always be verified on the relevant live product or policy page.

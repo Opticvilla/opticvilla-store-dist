@@ -6,4 +6,3 @@ Disallow: /checkout
 Disallow: /cart
 
 Sitemap: https://www.opticvilla.com/sitemap_index.xml
-Sitemap: https://www.opticvilla.com/sitemap.xml
