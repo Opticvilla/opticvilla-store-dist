@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <title>OpticVilla</title>
-  <rect width="64" height="64" rx="14" fill="#ffffff"/>
-  <g fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-linejoin="round">
-    <path stroke-width="5" d="M3 25h6m46 0h6"/>
-    <circle cx="19" cy="27" r="12" stroke-width="5"/>
-    <circle cx="45" cy="27" r="12" stroke-width="5"/>
-    <path stroke-width="4" d="M31 25c-2-4-5-4-7 0m16 0c-2-4-5-4-7 0"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="faviconTitle">
+  <title id="faviconTitle">Optic Villa</title>
+  <g transform="translate(0 180)" stroke="#5A5A5A" stroke-width="10" fill="none" stroke-linecap="round">
+    <circle cx="220" cy="120" r="60"/>
+    <circle cx="380" cy="120" r="60"/>
+    <path d="M280 120 Q300 95 320 120"/>
+    <line x1="160" y1="120" x2="130" y2="120"/>
+    <line x1="440" y1="120" x2="470" y2="120"/>
   </g>
-  <path d="M21 47h22" stroke="#d4a017" stroke-width="5" stroke-linecap="round"/>
 </svg>
